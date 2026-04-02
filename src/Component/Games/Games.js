@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 export default function Games({ input1 }) {
   const game = [
     {
