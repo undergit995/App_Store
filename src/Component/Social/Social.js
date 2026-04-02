@@ -3,15 +3,15 @@ import React, { useState } from 'react'
 export default function Social({input1}) {
     
       const social = [
-  { id: 1,  url: "https://img.icons8.com/color/1200/facebook-new.jpg",      name: "Facebook" },        // confirmed
-  { id: 2,  url: "https://img.icons8.com/color/1200/instagram-new--v1.jpg", name: "Instagram" },       // confirmed
+  { id: 1,  url: "https://img.icons8.com/color/1200/facebook-new.jpg",      name: "Facebook" },        
+  { id: 2,  url: "https://img.icons8.com/color/1200/instagram-new--v1.jpg", name: "Instagram" },       
   { id: 3,  url: "https://img.icons8.com/color/1200/facebook-messenger.jpg",name: "Messenger" },
-  { id: 4,  url: "https://img.icons8.com/color/1200/whatsapp--v1.jpg",      name: "WhatsApp" },        // confirmed
+  { id: 4,  url: "https://img.icons8.com/color/1200/whatsapp--v1.jpg",      name: "WhatsApp" },        
   { id: 5,  url: "https://img.icons8.com/color/1200/snapchat.jpg",          name: "Snapchat" },
-  { id: 6,  url: "https://img.icons8.com/color/1200/twitterx--v1.jpg",      name: "Twitter (X)" },     // confirmed
-  { id: 7,  url: "https://img.icons8.com/color/1200/tiktok--v1.jpg",        name: "TikTok" },          // confirmed
-  { id: 8,  url: "https://img.icons8.com/color/1200/linkedin.jpg",          name: "LinkedIn" },        // confirmed
-  { id: 9,  url: "https://img.icons8.com/color/1200/pinterest--v1.jpg",     name: "Pinterest" },       // confirmed
+  { id: 6,  url: "https://img.icons8.com/color/1200/twitterx--v1.jpg",      name: "Twitter (X)" },     
+  { id: 7,  url: "https://img.icons8.com/color/1200/tiktok--v1.jpg",        name: "TikTok" },          
+  { id: 8,  url: "https://img.icons8.com/color/1200/linkedin.jpg",          name: "LinkedIn" },        
+  { id: 9,  url: "https://img.icons8.com/color/1200/pinterest--v1.jpg",     name: "Pinterest" },       
   { id: 10, url: "https://img.icons8.com/color/1200/reddit.jpg",            name: "Reddit" }
 ];
 

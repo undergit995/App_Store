@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 
 export default function News({ input1 }) {
   const news = [
@@ -30,7 +30,7 @@ export default function News({ input1 }) {
     },
     {
       id: 7,
-      url: "https://play-lh.googleusercontent.com/V6wYSXrSloYomj44CkX6XnfflRfG3qTYh451MXUZHBUxqszW0pUrLt5TdlOXJv_qt3Kv37vQ725Ql7E6b49u6Q=w480-h960-rw",
+      url: "https://avatars.githubusercontent.com/u/8807928?s=280&v=4",
       name: "SmartNews",
     },
     {

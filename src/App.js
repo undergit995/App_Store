@@ -15,6 +15,7 @@ function App() {
 
   const [input1, setinput1] = useState("");
 
+  
   const UI = [
     { id: 1, name: <Social input1={input1} /> },
     { id: 2, name: <Games input1={input1} /> },
