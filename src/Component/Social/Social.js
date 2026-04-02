@@ -1,4 +1,3 @@
-import React, { useState } from 'react'
 
 export default function Social({input1}) {
     
@@ -17,7 +16,6 @@ export default function Social({input1}) {
 
 
 
-  const [so,setso]=useState()
   const socials=social.filter((e)=>(
     e.name.toLowerCase().includes(input1.toLowerCase())
   ))
